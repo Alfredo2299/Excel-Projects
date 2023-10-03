@@ -1,2 +1,2 @@
 # Excel-Projects
-In questa sezione sono presenti i dataset sui quali ho svolto delle analisi statistiche, creato dashboard e data cleaning attraverso le principali funzioni di Excel
+This section contains the datasets on which I carried out statistical analyses, created dashboards and data cleaning through the main Excel functions
